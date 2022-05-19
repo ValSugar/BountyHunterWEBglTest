@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "614318076851",
+    "firebase_url": "https://putler-crash-default-rtdb.firebaseio.com",
+    "project_id": "putler-crash",
+    "storage_bucket": "putler-crash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614318076851:android:ead8a8991684668aa1d1c6",
+        "android_client_info": {
+          "package_name": "com.cerebralfix.ditto.mp.prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614318076851-5jeo1i66pv2jtmemdvhh3p1kd7qa23e1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cerebralfix.ditto.mp.prototype",
+            "certificate_hash": "d90e3b41e8a47ccd2cef9db923cd90ae5ea9785d"
+          }
+        },
+        {
+          "client_id": "614318076851-eh8hdlfo501h4gauqjal63s3nug45h11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeX_tTDYzc-GbaLvQ0LeTSGUZRLZhkf_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614318076851-eh8hdlfo501h4gauqjal63s3nug45h11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "614318076851-hhibmgivcn9svhr87fpshc0kbvnm6ebq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cerebralfix.ditto.mp.prototype"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
